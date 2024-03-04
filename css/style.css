@@ -1,5 +1,32 @@
+:root {
+  --yellow: #ffc758;
+  --blue: #114a8d;
+}
+
+@font-face {
+  font-family: 'GothamBook';
+  src: url(../fonts/GothamBook.woff);
+}
+@font-face {
+  font-family: 'Shape';
+  src: url(../fonts/Shape-SemiBold.woff);
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Shape', sans-serif;
+}
+
+p {
+  font-family: 'GothamBook', sans-serif;
 }
