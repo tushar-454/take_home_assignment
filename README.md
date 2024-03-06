@@ -1,6 +1,6 @@
 # Take Home Assignment
 
-#### [https://tushar-454.github.io/take_home_assignment/](https://tushar-454.github.io/take_home_assignment/)
+#### [https://take-home-assignment-peach.vercel.app/](https://take-home-assignment-peach.vercel.app/)
 
 ### Project Overview
 
